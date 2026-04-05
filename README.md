@@ -94,6 +94,3 @@ Escríbenos para cualquier duda o consulta:
 - 📘 Facebook: **[Shoppix.hn](https://facebook.com/Shoppix.hn)**
 
 ---
-<div align="center">
-  Hecho con ❤️ en Honduras.
-</div>
