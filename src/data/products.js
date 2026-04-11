@@ -534,5 +534,34 @@ export default [
             "Desde S a 2XL"
 
         ]
+    }, {
+        "id": 24,
+        "name": "Uniforme Quirúrgico de Hospital",
+        "price": 999,
+        "category": "Ropa",
+        "images": [
+            "/images/uniformequirurgico1/1.jpg",
+            "/images/uniformequirurgico1/2.jpg",
+            "/images/uniformequirurgico1/3.jpg",
+            "/images/uniformequirurgico1/4.jpg",
+            "/images/uniformequirurgico1/5.jpg",
+            "/images/uniformequirurgico1/6.jpg",
+            "/images/uniformequirurgico1/7.jpg",
+            "/images/uniformequirurgico1/8.jpg",
+            "/images/uniformequirurgico1/9.jpg",
+            "/images/uniformequirurgico1/10.jpg",
+            "/images/uniformequirurgico1/11.jpg",
+            "/images/uniformequirurgico1/12.jpg",
+            "/images/uniformequirurgico1/13.jpg",
+            "/images/uniformequirurgico1/14.jpg"
+
+        ],
+        "description": "Para Médico Enfermera y Dentista",
+        "specs": [
+            "Ropa de Trabajo de Invierno y Verano ",
+            "Modelo OEM ",
+            "Desde S a 2XL"
+
+        ]
     }
 ]
