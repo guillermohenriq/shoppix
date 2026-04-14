@@ -556,5 +556,26 @@ export default [
             "Sonido Estéreo"
 
         ]
+    }, {
+        "id": 25,
+        "name": "",
+        "price": 999,
+        "category": "",
+        "images": [
+            "/images/",
+            "/images/",
+            "/images/",
+            "/images/",
+            "/images/",
+            "/images/",
+            "/images/"
+        ],
+        "description": "",
+        "specs": [
+            "",
+            "",
+            "",
+            ""
+        ]
     }
 ]
