@@ -11,7 +11,7 @@ export default function ProductModal({ product, allProducts, onSelect, onClose }
     const selectedImage = product.images && product.images.length > 0 ? product.images[selectedIndex] : ''
 
     // WhatsApp configuration
-    const phoneNumber = "50487761895" // CHANGE THIS NUMBER
+    const phoneNumber = "50487761895"
     const message = encodeURIComponent(`Hola, estoy interesado en comprar: ${product.name} (L. ${product.price}).`)
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${message}`
 

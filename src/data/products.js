@@ -598,24 +598,125 @@ export default [
     },
     {
         "id": 27,
-        "name": "",
+        "name": "Camiseta Deportiva Ligera",
         "price": 999,
-        "category": "",
+        "category": "Ropa",
         "images": [
-            "/images/",
-            "/images/",
-            "/images/",
-            "/images/",
-            "/images/",
-            "/images/",
-            "/images/"
+            "/images/camisetadeportivaligera/1.jpg",
+            "/images/camisetadeportivaligera/2.jpg",
+            "/images/camisetadeportivaligera/3.jpg",
+            "/images/camisetadeportivaligera/4.jpg"
         ],
-        "description": "",
+        "description": "Camiseta Deportiva Ligera de Secado Rápido",
         "specs": [
-            "",
-            "",
-            "",
-            ""
+            "Secado Rápido",
+            "Transpirable",
+            "Ligera",
+            "Cómoda",
+            "Material: Poliéster"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Camiseta de fitness transpirable",
+        "price": 999,
+        "category": "Ropa",
+        "images": [
+            "/images/camisetadefitnesstranspirable/1.jpg",
+            "/images/camisetadefitnesstranspirable/2.jpg",
+            "/images/camisetadefitnesstranspirable/3.jpg",
+            "/images/camisetadefitnesstranspirable/4.jpg",
+            "/images/camisetadefitnesstranspirable/5.jpg",
+            "/images/camisetadefitnesstranspirable/6.jpg",
+            "/images/camisetadefitnesstranspirable/7.jpg",
+            "/images/camisetadefitnesstranspirable/8.jpg",
+            "/images/camisetadefitnesstranspirable/9.jpg"
+        ],
+        "description": "Camiseta de fitness transpirable personalizada para hombre",
+        "specs": [
+            "Personalizada para hombre",
+            "Camiseta reflectante lisa",
+            "Cuello redondo para correr",
+            "Camisetas deportivas de manga corta"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Pantalones de Verano",
+        "price": 520,
+        "category": "Ropa",
+        "images": [
+            "/images/pantalonesdeverano/1.jpg",
+            "/images/pantalonesdeverano/2.jpg",
+            "/images/pantalonesdeverano/3.jpg",
+            "/images/pantalonesdeverano/4.jpg",
+            "/images/pantalonesdeverano/5.jpg",
+            "/images/pantalonesdeverano/6.jpg"
+        ],
+        "description": "Pantalones de Verano para Hombre",
+        "specs": [
+            "Resistentes al Viento",
+            "100% Algodón",
+            "Cintura Media",
+            "Cierre de Botones"
+        ]
+    }, {
+        "id": 30,
+        "name": "Pantalones de Vaquero de Ajuste Regular",
+        "price": 635,
+        "category": "Ropa",
+        "images": [
+            "/images/pantalonesdevaqueroregular/1.jpg",
+            "/images/pantalonesdevaqueroregular/2.jpg",
+            "/images/pantalonesdevaqueroregular/3.jpg",
+            "/images/pantalonesdevaqueroregular/4.jpg",
+            "/images/pantalonesdevaqueroregular/5.jpg",
+            "/images/pantalonesdevaqueroregular/6.jpg",
+            "/images/pantalonesdevaqueroregular/7.jpg",
+            "/images/pantalonesdevaqueroregular/8.jpg",
+            "/images/pantalonesdevaqueroregular/9.jpg"
+        ],
+        "description": "Pantalones de Vaquero de Ajuste Regular para Hombre",
+        "specs": [
+            "Vaqueros con bolsillos",
+            "Talla 5"
+        ]
+    }, {
+        "id": 31,
+        "name": "Pantalones Vaqueros de Pierna Recta",
+        "price": 520,
+        "category": "Ropa",
+        "images": [
+            "/images/pantalonesdevaqueropiernarecta/1.jpg",
+            "/images/pantalonesdevaqueropiernarecta/2.jpg",
+            "/images/pantalonesdevaqueropiernarecta/3.jpg",
+            "/images/pantalonesdevaqueropiernarecta/4.jpg",
+            "/images/pantalonesdevaqueropiernarecta/5.jpg",
+            "/images/pantalonesdevaqueropiernarecta/6.jpg"
+        ],
+        "description": "Pantalones vaqueros de pierna recta informales para hombre",
+        "specs": [
+            "Cintura media lavada",
+            "Ajustados",
+            "Con cremallera"
+        ]
+    }, {
+        "id": 32,
+        "name": "ZLO2 Smartwatch",
+        "price": 550,
+        "category": "Tecnología",
+        "images": [
+            "/images/zlo2smartwatch/1.jpg",
+            "/images/zlo2smartwatch/2.jpg",
+            "/images/zlo2smartwatch/3.jpg",
+            "/images/zlo2smartwatch/4.jpg",
+            "/images/zlo2smartwatch/5.jpg"
+        ],
+        "description": "ZLO2 Smartwatch IS0 Android Hombres Mujeres",
+        "specs": [
+            "Relojes inteligentes a prueba de agua",
+            "Pulsera de fitness",
+            "Ritmo cardíaco"
         ]
     }
 ]
