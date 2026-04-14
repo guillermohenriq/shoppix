@@ -558,6 +558,46 @@ export default [
         ]
     }, {
         "id": 25,
+        "name": "IEMs KZ EDX",
+        "price": 999,
+        "category": "Tecnología",
+        "images": [
+            "/images/kzedx/1.jpg",
+            "/images/kzedx/2.jpg",
+            "/images/kzedx/3.jpg",
+            "/images/kzedx/4.jpg",
+            "/images/kzedx/5.jpg",
+            "/images/kzedx/6.jpg",
+        ],
+        "description": "Audifonos Intrauditivos Dinámicos",
+        "specs": [
+            "Alta Fidelidad con Bajos",
+            "Auriculares con Monitor de Estudio",
+            "Auriculares Deportivos con Cancelación de Ruido"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Camisa de Manga Larga para Hombre Estilo Europeo",
+        "price": 999,
+        "category": "Ropa",
+        "images": [
+            "/images/camisademangalargahombre/1.jpg",
+            "/images/camisademangalargahombre/2.jpg",
+            "/images/camisademangalargahombre/3.jpg",
+            "/images/camisademangalargahombre/4.jpg",
+            "/images/camisademangalargahombre/5.jpg",
+            "/images/camisademangalargahombre/6.jpg",
+            "/images/camisademangalargahombre/7.jpg"
+        ],
+        "description": "Camisa de Manga Larga para Hombre Estilo Europeo",
+        "specs": [
+            "Corte Ajustado",
+            "Camisa Casual de Base"
+        ]
+    },
+    {
+        "id": 27,
         "name": "",
         "price": 999,
         "category": "",
