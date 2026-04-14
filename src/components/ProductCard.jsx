@@ -62,7 +62,7 @@ export default function ProductCard({ product, onClick }) {
                 )}
 
                 <img
-                    src={product.images[0]}
+                    src={`${import.meta.env.BASE_URL}${product.images[0].replace(/^\/+/, '')}`}
                     alt={product.name}
                     loading="lazy"
                     onLoad={() => setImageLoaded(true)}

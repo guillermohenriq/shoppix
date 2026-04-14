@@ -68,7 +68,7 @@ function App() {
                                             }}
                                         >
                                             <div style={{ height: '200px', backgroundColor: '#f3f4f6', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                                                <img src={product.images[0]} alt={product.name} loading="lazy" style={{ maxHeight: '100%', maxWidth: '100%', objectFit: 'contain' }} />
+                                                <img src={`${import.meta.env.BASE_URL}${product.images[0].replace(/^\/+/, '')}`} alt={product.name} loading="lazy" style={{ maxHeight: '100%', maxWidth: '100%', objectFit: 'contain' }} />
                                             </div>
                                             <div style={{ padding: '1rem' }}>
                                                 <h3 style={{ fontWeight: 'bold', marginBottom: '0.5rem' }}>{product.name}</h3>
@@ -99,7 +99,7 @@ function App() {
                         {/* Brand */}
                         <div className="footer-section">
                             <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1rem' }}>
-                                <img src="/images/logo.png" alt="Shoppix" style={{ height: '40px' }} />
+                                <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Shoppix" style={{ height: '40px' }} />
                                 <span style={{ fontSize: '1.25rem', fontWeight: '700', color: 'white' }}>Shoppix</span>
                             </div>
                             <p style={{ color: '#9ca3af', fontSize: '0.9rem', lineHeight: '1.6' }}>

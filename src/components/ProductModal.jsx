@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import { X, MessageCircle } from 'lucide-react'
 
+const resolveImg = (path) => `${import.meta.env.BASE_URL}${path.replace(/^\/+/, '')}`
+
 export default function ProductModal({ product, allProducts, onSelect, onClose }) {
     if (!product) return null
 
@@ -79,7 +81,7 @@ export default function ProductModal({ product, allProducts, onSelect, onClose }
                         justifyContent: 'center'
                     }}>
                         <img
-                            src={selectedImage}
+                            src={resolveImg(selectedImage)}
                             alt={product.name}
                             style={{
                                 maxWidth: '100%',
@@ -117,7 +119,7 @@ export default function ProductModal({ product, allProducts, onSelect, onClose }
                                         }}
                                     >
                                         <img
-                                            src={img}
+                                            src={resolveImg(img)}
                                             alt={`${product.name} ${idx + 1}`}
                                             style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
                                         />
@@ -210,7 +212,7 @@ export default function ProductModal({ product, allProducts, onSelect, onClose }
                                                 padding: '0.5rem'
                                             }}>
                                                 <img
-                                                    src={related.images[0]}
+                                                    src={resolveImg(related.images[0])}
                                                     alt={related.name}
                                                     style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain', mixBlendMode: 'multiply' }}
                                                 />

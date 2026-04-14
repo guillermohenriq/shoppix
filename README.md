@@ -92,5 +92,3 @@ Escríbenos para cualquier duda o consulta:
 - 📧 Email: **[shoppineex00@gmail.com](mailto:shoppineex00@gmail.com)**
 - 📸 Instagram: **[@shoppix.hn](https://instagram.com/shoppix.hn)**
 - 📘 Facebook: **[Shoppix.hn](https://facebook.com/Shoppix.hn)**
-
----

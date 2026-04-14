@@ -24,7 +24,7 @@ export default function Navbar({ currentView, onNavigate }) {
 
                 {/* Logo Section */}
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', cursor: 'pointer' }} onClick={() => handleNavigate('home')}>
-                    <img src="/images/logo.png" alt="Shoppix Logo" style={{ height: '50px' }} />
+                    <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="Shoppix Logo" style={{ height: '50px' }} />
                     <span style={{ fontSize: '1.5rem', fontWeight: 'bold', letterSpacing: '-0.5px' }}>Shoppix</span>
                 </div>
 
