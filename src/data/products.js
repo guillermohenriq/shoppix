@@ -718,5 +718,62 @@ export default [
             "Pulsera de fitness",
             "Ritmo cardíaco"
         ]
+    }, {
+        "id": 33,
+        "name": "Reloj Inteligente Deportivo",
+        "price": 610,
+        "category": "Tecnología",
+        "images": [
+            "/images/relojinteligentedeportivo/1.jpg",
+            "/images/relojinteligentedeportivo/2.jpg",
+            "/images/relojinteligentedeportivo/3.jpg",
+            "/images/relojinteligentedeportivo/4.jpg",
+            "/images/relojinteligentedeportivo/5.jpg",
+            "/images/relojinteligentedeportivo/6.jpg"
+        ],
+        "description": "Reloj Inteligente Deportivo",
+        "specs": [
+            "Compatible con iOS y Android",
+            "Rastreador de Actividad",
+            "Estándar IP68"
+        ]
+    }, {
+        "id": 34,
+        "name": "Reloj Inteligente G104",
+        "price": 550,
+        "category": "Tecnología",
+        "images": [
+            "/images/relojinteligenteG104/1.jpg",
+            "/images/relojinteligenteG104/2.jpg",
+            "/images/relojinteligenteG104/3.jpg",
+            "/images/relojinteligenteG104/4.jpg",
+            "/images/relojinteligenteG104/5.jpg",
+            "/images/relojinteligenteG104/6.jpg",
+            "/images/relojinteligenteG104/7.jpg"
+        ],
+        "description": "Reloj Inteligente G104 para Hombre",
+        "specs": [
+            "Pantalla Táctil HD de 1.83",
+            "Monitor de Ritmo Cardíaco",
+            "Compatible con Android"
+        ]
+    }, {
+        "id": 35,
+        "name": "Camiseta de Manga Corta",
+        "price": 320,
+        "category": "Ropa",
+        "images": [
+            "/images/camisetademangacorta/1.jpg",
+            "/images/camisetademangacorta/2.jpg",
+            "/images/camisetademangacorta/3.jpg",
+            "/images/camisetademangacorta/4.jpg",
+            "/images/camisetademangacorta/5.jpg",
+            "/images/camisetademangacorta/6.jpg"
+        ],
+        "description": "Camiseta de Manga Corta para Hombre",
+        "specs": [
+            "Tops Sehe Fashion",
+            "Tallas de S-XL"
+        ]
     }
 ]
