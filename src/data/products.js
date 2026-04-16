@@ -775,5 +775,62 @@ export default [
             "Tops Sehe Fashion",
             "Tallas de S-XL"
         ]
+    }, {
+        "id": 36,
+        "name": "Camiseta de Manga Corta Informal",
+        "price": 350,
+        "category": "Ropa",
+        "images": [
+            "/images/camisetademangacortainformal/1.jpg",
+            "/images/camisetademangacortainformal/2.jpg",
+            "/images/camisetademangacortainformal/3.jpg",
+            "/images/camisetademangacortainformal/4.jpg",
+            "/images/camisetademangacortainformal/5.jpg",
+            "/images/camisetademangacortainformal/6.jpg"
+        ],
+        "description": "Camiseta de Manga Corta Informal para Hombre",
+        "specs": [
+            "Algodón Suave de Entrenamiento",
+            "Cuello Redondo",
+            "Manga Corta",
+            "Estilo Casual",
+            "Tallas de S-XL"
+        ]
+    }, {
+        "id": 37,
+        "name": "Chaleco Deportivo para Hombre",
+        "price": 540,
+        "category": "Ropa",
+        "images": [
+            "/images/chalecodeportivohombre/1.jpg",
+            "/images/chalecodeportivohombre/2.jpg",
+            "/images/chalecodeportivohombre/3.jpg",
+            "/images/chalecodeportivohombre/4.jpg"
+        ],
+        "description": "Chaleco Deportivo para Hombre",
+        "specs": [
+            "Transpirable",
+            "Secado Rápido",
+            "Sin Mangas",
+            "Estilo Deportivo",
+            "Tallas de S-2XL"
+        ]
+    }, {
+        "id": 38,
+        "name": "Pantalones Casuales de Tubo Recto",
+        "price": 999,
+        "category": "Ropa",
+        "images": [
+            "/images/pantalonescasualestuborecto/1.jpg",
+            "/images/pantalonescasualestuborecto/2.jpg",
+            "/images/pantalonescasualestuborecto/3.jpg",
+            "/images/pantalonescasualestuborecto/4.jpg",
+            "/images/pantalonescasualestuborecto/5.jpg",
+            "/images/pantalonescasualestuborecto/6.jpg"
+        ],
+        "description": "Pantalones Casuales de Tubo Recto para Hombre",
+        "specs": [
+            "Tallas de S-2XL"
+        ]
     }
 ]
